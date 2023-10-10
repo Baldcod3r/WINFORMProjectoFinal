@@ -1,0 +1,16 @@
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.csproj.AssemblyReference.cache
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.csproj.SuggestedBindingRedirects.cache
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.formAcceso.resources
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.Properties.Resources.resources
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.csproj.GenerateResource.cache
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.csproj.CoreCompileInputs.cache
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\bin\Debug\FormPersonaAlumno.exe.config
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\bin\Debug\FormPersonaAlumno.exe
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\bin\Debug\FormPersonaAlumno.pdb
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.exe
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.pdb
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.formAlumno.resources
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.panelContenedor.resources
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.formEliminar.resources
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.formListarAlumno.resources
+E:\FormProyectoPersona\ProyectoFormPersonaAlumno\FormPersonaAlumno\obj\Debug\FormPersonaAlumno.formBuscarAlumno.resources
